@@ -6,7 +6,7 @@
 /* } */ 
 
 .background-section {
-  background-image: url('https://plus.unsplash.com/premium_photo-1671377387797-8d3307a546a6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y29va2luZ3xlbnwwfHwwfHx8MA%3D%3D'); /* Replace with your image URL */
+  background-image: url('https://images.squarespace-cdn.com/content/v1/651f3a38b2f69811ea35c9f1/1696545461736-BS7IN3O2T6QVPPQQE8S4/Cover.jpg'); /* Replace with your image URL */
   background-position: center center !important; /* Centers the image */
   background-attachment: fixed !important; /* Makes the background fixed when scrolling */
   background-size: cover;
