@@ -1,3 +1,28 @@
+/* .bg-image {
+  background-image: url("https://t4.ftcdn.net/jpg/03/32/75/39/360_F_332753934_tBacXEgxnVplFBRyKbCif49jh0Wz89ns.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100%; /* Or set a fixed height like 500px */
+/* } */ 
+
+.background-section {
+  background-image: url('https://plus.unsplash.com/premium_photo-1671377387797-8d3307a546a6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y29va2luZ3xlbnwwfHwwfHx8MA%3D%3D'); /* Replace with your image URL */
+  background-position: center center !important; /* Centers the image */
+  background-attachment: fixed !important; /* Makes the background fixed when scrolling */
+  background-size: cover;
+  display: flex; /* Ensures the section uses flexbox layout for alignment */
+  justify-content: center; /* Centers content horizontally */
+  align-items: center; /* Centers content vertically */
+}
+
+.layer {
+  background-color: rgba(248, 247, 216, 0.7);
+}
+
+.container {
+  z-index:1;
+}
+
 .bd-placeholder-img {
   font-size: 1.125rem;
   text-anchor: middle;
